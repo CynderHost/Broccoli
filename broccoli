@@ -22,4 +22,4 @@ try: #no exceptions, ever
   file.close()
   time.sleep(0.5) #take a break, so we don't make brotli and gzip look too bad
 except:
-  print("Error.") #print helpful error messsage
+  print("Error.") #print industry standard, helpful error messsage
