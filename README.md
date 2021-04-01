@@ -1,7 +1,7 @@
 # Broccoli
 A state of the art compression protocol for 99%+ reductions in file size and massive performance boosts.
 # Efficiency
-Details can be found on our blog: 
+Details can be found on our blog: https://blog.cynderhost.com/announcing-support-for-broccoli-compression/
 # Installation
 Download `broccoli` and run `chmod +x broccoli`
 Copy `broccoli` to `/bin/broccoli` to make it globally avaliable
@@ -15,7 +15,6 @@ Copy `broccoli` to `/bin/broccoli` to make it globally avaliable
                             Set the compression level (0-41)
       -f FILE, --file FILE  Set the file to compress
 # Contribute
-    
 Since this protocol is 100% optimized and bug free, this project is not open to contributions at this time.
 # Coupon
 `BROCCOLIISTHEFUTURE`
